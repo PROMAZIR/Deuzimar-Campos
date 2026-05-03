@@ -1,7 +1,8 @@
 # Deuzimar-Campos
+
 <!-- BANNER -->
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Bem-vindo%20ao%20meu%20GitHub!&fontSize=35&fontColor=ffffff&animation=fadeIn](https://github.com/PROMAZIR/Deuzimar-Campos/blob/e8855c92e7ebfbcf5d518485406e5b10ec7a1601/Perfil-Campos.png)" />
+  <img src="https://raw.githubusercontent.com/PROMAZIR/Deuzimar-Campos/main/Perfil-Campos.png" />
 </p>
 
 ---
@@ -18,36 +19,40 @@
 
 ## ⚙️ Tecnologias que estou utilizando
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,tailwind" />
 </p>
 
 ---
 
 ## 📂 Projetos em destaque
 
-🚧 Em construção... (adicione aqui seus projetos conforme for evoluindo)
+🚧 Em construção...
 
-Exemplo:
-- 🔗 [Nome do Projeto](LINK_DO_REPOSITORIO)
-- 🔗 [Nome do Projeto](LINK_DO_REPOSITORIO)
+- 🔗 [Meu Portfólio](https://github.com/PROMAZIR)
+- 🔗 [Projetos futuros](https://github.com/PROMAZIR?tab=repositories)
 
 ---
 
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PROMAZIR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PROMAZIR&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 🌐 Onde me encontrar
 
-<p>
-  <a href="SEU_LINKEDIN" target="_blank">
+<p align="center">
+  <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://github.com/PROMAZIR" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
@@ -59,8 +64,10 @@ Sou um desenvolvedor em constante evolução, focado em criar projetos práticos
 Tenho interesse em desenvolvimento web e mobile, buscando sempre aprender novas tecnologias e boas práticas.
 
 ---
-
 <p align="center">
   🚀 Sempre aprendendo | Sempre evoluindo
 </p>
 
+<p align="center">
+  🚀 Sempre aprendendo | Sempre evoluindo
+</p>
