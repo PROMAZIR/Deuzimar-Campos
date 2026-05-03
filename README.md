@@ -1,12 +1,12 @@
 # Deuzimar-Campos
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Bem-vindo%20ao%20meu%20GitHub!&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Bem-vindo%20ao%20meu%20GitHub!&fontSize=35&fontColor=ffffff&animation=fadeIn](https://github.com/PROMAZIR/Deuzimar-Campos/blob/e8855c92e7ebfbcf5d518485406e5b10ec7a1601/Perfil-Campos.png)" />
 </p>
 
 ---
 
-# 👋 Olá, eu sou [SEU NOME]
+# 👋 Olá, eu sou DEUZIMAR CAMPOS
 
 💻 Desenvolvedor em formação com foco em **Front-end e Mobile**  
 🚀 Estudando **JavaScript, React e Node.js**  
