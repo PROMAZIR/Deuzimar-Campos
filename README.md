@@ -5,7 +5,6 @@
   <img src="https://github.com/PROMAZIR/Deuzimar-Campos/blob/main/campos-dev.png?raw=true" />
 </p>
 
----
 
 # 👋 Olá, eu sou DEUZIMAR CAMPOS
 
@@ -15,7 +14,6 @@
 🤖 Utilizando IA como aliada no desenvolvimento e aprendizado  
 🎯 Em busca da minha primeira oportunidade na área  
 
----
 
 ## ⚙️ Tecnologias que estou utilizando
 
@@ -23,7 +21,6 @@
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,tailwind" />
 </p>
 
----
 
 ## 📂 Projetos em destaque
 
@@ -32,7 +29,6 @@
 - 🔗 [Meu Portfólio](https://github.com/PROMAZIR)
 - 🔗 [Projetos futuros](https://github.com/PROMAZIR?tab=repositories)
 
----
 
 ## 📈 Estatísticas do GitHub
 
@@ -41,7 +37,6 @@
   
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PROMAZIR&layout=compact&theme=tokyonight" />
 </p>
----
 
 ## 🌐 Onde me encontrar
 
@@ -55,14 +50,12 @@
   </a>
 </p>
 
----
 
 ## 💡 Sobre mim
 
 Sou um desenvolvedor em constante evolução, focado em criar projetos práticos e melhorar minhas habilidades todos os dias.  
 Tenho interesse em desenvolvimento web e mobile, buscando sempre aprender novas tecnologias e boas práticas.
 
----
 <p align="center">
   🚀 Sempre aprendendo | Sempre evoluindo
 </p>
