@@ -37,9 +37,11 @@
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PROMAZIR&show_icons=true&theme=tokyonight" />
-  
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PROMAZIR&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PROMAZIR&show_icons=true&theme=tokyonight" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PROMAZIR&layout=compact&theme=tokyonight" width="100%" />
 </p>
 
 ---
