@@ -2,7 +2,7 @@
 
 <!-- BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PROMAZIR/Deuzimar-Campos/main/Perfil-Campos.png" />
+  <img src="https://raw.githubusercontent.com/PROMAZIR/Deuzimar-Campos/main/Perfil-Campos.png](https://github.com/PROMAZIR/Deuzimar-Campos/blob/main/campos-dev.png?raw=true)" />
 </p>
 
 ---
