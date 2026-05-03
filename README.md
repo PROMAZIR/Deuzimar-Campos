@@ -37,9 +37,9 @@
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PROMAZIR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PROMAZIR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
   
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PROMAZIR&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PROMAZIR&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
@@ -64,10 +64,6 @@ Sou um desenvolvedor em constante evolução, focado em criar projetos práticos
 Tenho interesse em desenvolvimento web e mobile, buscando sempre aprender novas tecnologias e boas práticas.
 
 ---
-<p align="center">
-  🚀 Sempre aprendendo | Sempre evoluindo
-</p>
-
 <p align="center">
   🚀 Sempre aprendendo | Sempre evoluindo
 </p>
